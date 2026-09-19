@@ -1,4 +1,6 @@
-  body {
+<style>
+<css>
+body {
    bg-image: url("https://i.pinimg.com/736x/b1/52/fb/b152fbb42e81cf2994d87585a8a04dac.jpg");
    bg-position: center;
    bg-size: cover;
@@ -20,3 +22,5 @@
  text-align: right;
  position: right;
 }
+</css>
+</style>
