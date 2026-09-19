@@ -3,4 +3,7 @@
      background-color: linear-gradient(180deg,10BBEB,32E3CE,5EC883;
      animation: move ease-in-out 5secs infinite;
     }
+@font-face {
+  font-family: "Pixels";
+  src: url("Pixellari.zip")
 </css>
