@@ -1,6 +1,6 @@
 <style>
  <css>
-  div{
+  body {
    background-color: #32E3CE;
    background-position: center;
    background-size: cover;
@@ -10,12 +10,14 @@
   border: 5px solid #5EC883;
   border-radius: 10px;
   float: left;
-  
+  width: 300px;
+  height: 300px
  }
 .text{
  font-size: 15px;
  color: #2F8751;
- text-align: left
+ text-align: right:
+ position: right:
 }
  </css>
 </style>
