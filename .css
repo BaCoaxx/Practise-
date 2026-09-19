@@ -1,20 +1,5 @@
 <style>
-<css>
- div{
-     background-color: linear-gradient(180deg,10BBEB,32E3CE,5EC883;
-     animation: move ease-in-out 5secs infinite;
-    }
-@font-face {
-  font-family: "Pixels";
-  src:https://www.dafont.com/pixellari.font
-}
-.text{
- font-family: Pixels;
- font-size: 1.5rem;
-}
-.shark{
- border: 5px dashed beige;
- border-radius: 80%;
-}
-</css>
+ <css>
+
+ </css>
 </style>
