@@ -2,13 +2,18 @@
  <css>
   div{
    background-color: #32E3CE;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
   }
  .shark{
-  border: 5px dashed #5EC883;
-  border-radius: 8px;
-  position: right;
+  border: 5px solid #5EC883;
+  border-radius: 10px;
+  float: left;
+  
  }
 .text{
+ font-size: 15px;
  color: #2F8751;
  text-align: left
 }
