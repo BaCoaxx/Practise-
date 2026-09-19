@@ -6,4 +6,12 @@
 @font-face {
   font-family: "Pixels";
   src: url("Pixellari.zip")
+}
+#text{
+ font-family: Pixels;
+ font-size: 1.5rem;
+}
+#shark{
+ border: 5px dashed beige;
+ border-radius: 80%;
 </css>
