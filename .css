@@ -3,6 +3,14 @@
   div{
    background-color: #32E3CE;
   }
- 
+ .shark{
+  border: 5px dashed #5EC883;
+  border-radius: 8px;
+  position: right;
+ }
+.text{
+ color: #2F8751;
+ text-align: left
+}
  </css>
 </style>
