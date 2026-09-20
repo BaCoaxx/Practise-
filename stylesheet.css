@@ -1,19 +1,31 @@
-body{
-  background-image: url("https://i.pinimg.com/736x/b1/52/fb/b152fbb42e81cf2994d87585a8a04dac.jpg");
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+body {
+    background-image: url("https://i.pinimg.com/736x/b1/52/fb/b152fbb42e81cf2994d87585a8a04dac.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+	display: flex;
 }
-.shark{
-  border: 5px solid #5EC883;
-  border-radius: 10px;
-  float: left;
-  width: 300px;
-  height: 300px;
+#title {
+	display: flex
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
 }
-.text{
-  font-size: 60px;
-  color: #2F8751;
-  text-align: right;
-  position: right;
+#title h1 {
+	font-size: 2rem;
+	color: greenyellow;
+}
+.shark {
+    border: 5px solid #5EC883;
+    border-radius: 10px;
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+
+.text {
+    font-size: 60px;
+    color: #2F8751;
+    text-align: right;
+    position: right;
 }
