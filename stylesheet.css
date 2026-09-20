@@ -18,16 +18,28 @@ body {
 	font-size: 2rem;
 	color: darkturquoise;
 }
-.shark {
-    border: 5px solid #5EC883;
-    border-radius: 10px;
-    float: left;
-    width: 300px;
-    height: 300px;
+.content-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
 }
-
-.text {
-    font-size: 60px;
+.content-container .contentCard {
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	flex-direction: row;
+}
+.content-container .contentCard .shark {
+	border: 5px dashed #5EC883;
+    border-radius: 10px;
+	display: flex;
+    align-items: center;
+    width: 10rem;
+    height: 10rem;
+}
+.content-container .contentCard .text {
+	font-size: 1rem;
     color: #2F8751;
     text-align: right;
     position: right;
