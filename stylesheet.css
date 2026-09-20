@@ -35,7 +35,7 @@ body {
 	width: 90%;
 	margin-bottom: 10px;
 	background: rgba(255, 255, 255, 0.3);
-	border-radius: 180px;
+	border-radius: 90px;
 	backdrop-filter: blur(2px);
 	padding: 5px;
 }
