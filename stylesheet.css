@@ -15,8 +15,8 @@ body {
 	flex-direction: row;
 }
 #title h1 {
-	font-size: 5px;
-	color: blue;
+	font-size: 5rem;
+	color: darkturquoise;
 }
 .shark {
     border: 5px solid #5EC883;
