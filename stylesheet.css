@@ -37,7 +37,7 @@ body {
 }
 .content-container .contentCard .shark {
 	border: 5px dashed #5EC883;
-    border-radius: 10px;
+    border-radius: 50px;
 	display: flex;
     align-items: center;
     width: 10rem;
