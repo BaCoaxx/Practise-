@@ -27,10 +27,6 @@ body {
 	flex-direction: column;
 	width: 100%;
 }
-.content-container .contentCard::before {
-	background-color: white;
-	opacity: 20%;
-}
 .content-container .contentCard {
 	display: flex;
 	justify-content: center;
@@ -38,6 +34,9 @@ body {
 	flex-direction: row;
 	width: 90%;
 	margin-bottom: 10px;
+	background: rgba(255, 255, 255, 0.3)
+	border-radius: 180px;
+	backdrop-filter: blur(2px)
 }
 .content-container .contentCard .shark {
 	border: 5px dashed #5EC883;
