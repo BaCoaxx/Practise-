@@ -26,7 +26,6 @@ body {
 	align-items: center;
 	flex-direction: column;
 	width: 100%;
-	padding-bottom: 50px;
 }
 .content-container .contentCard {
 	display: flex;
@@ -34,6 +33,7 @@ body {
 	align-items:center;
 	flex-direction: row;
 	width: 90%;
+	margin-bottom: 10px;
 }
 .content-container .contentCard .shark {
 	border: 5px dashed #5EC883;
