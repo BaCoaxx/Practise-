@@ -14,7 +14,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: row;
-	width: 100%;
+	width: 100vw;
 }
 #title h1 {
 	font-size: 2rem;
@@ -25,7 +25,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	width: 100%;
+	width: 100vw;
 }
 .content-container .contentCard {
 	display: flex;
