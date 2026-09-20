@@ -50,7 +50,7 @@ body {
 .content-container .contentCard .text {
 	font-size: 1rem;
     color: black;
-    text-align: right;
+    text-align: left;
 	width: 40%;
 	padding-left: 1rem;
 	padding-right: 50px;
