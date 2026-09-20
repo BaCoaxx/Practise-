@@ -27,6 +27,10 @@ body {
 	flex-direction: column;
 	width: 100%;
 }
+.content-container .contentCard::before {
+	background-color: white;
+	opacity: 20%;
+}
 .content-container .contentCard {
 	display: flex;
 	justify-content: center;
