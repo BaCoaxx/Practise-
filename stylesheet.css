@@ -14,7 +14,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: row;
-	width: 100vw;
+	width: 100%;
 }
 #title h1 {
 	font-size: 2rem;
@@ -25,13 +25,14 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	width: 100vw;
+	width: 100%;
 }
 .content-container .contentCard {
 	display: flex;
 	justify-content: center;
 	align-items:center;
 	flex-direction: row;
+	width: 90%;
 }
 .content-container .contentCard .shark {
 	border: 5px dashed #5EC883;
